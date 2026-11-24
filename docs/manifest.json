@@ -1,0 +1,31 @@
+{
+  "name": "イラスト伝言ゲーム",
+  "short_name": "イラスト伝言ゲーム",
+  "description": "タブレット1台をチームで回す、お絵かき伝言ゲーム。URLを開くだけで遊べます。",
+  "lang": "ja",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#2b6cb0",
+  "theme_color": "#2b6cb0",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
